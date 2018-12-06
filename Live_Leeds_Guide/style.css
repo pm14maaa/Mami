@@ -1,0 +1,84 @@
+.div1 {
+  text-align: center;
+  font-size:15px
+
+}
+
+.div2 {
+  text-align: right;
+  font-size: 60px;
+  padding-top: 88px;
+  padding-left:0px;
+}
+
+.div3 {
+  text-align: left;
+  font-weight: bolder;
+  font-size: 135px;
+  padding-top: 5px;
+  padding-left: 0px;
+}
+
+.div4 {
+  text-align: center;
+  font-size:25px;
+}
+
+.div5{
+  text-align: center;
+
+
+}
+
+.venuetable
+{ margin: auto;
+  width: 80%;
+
+}
+
+.size
+{
+  width: 250px;
+  border-radius: 5%;
+
+}
+
+.border
+{
+  border-color: black;
+
+}
+
+ul1 {
+
+
+}
+
+ul1 li {
+ display: inline-block;
+
+
+}
+
+ul1 li a {
+font-style: Times
+
+
+}
+
+
+
+ul2 {
+  text-align: center;
+
+}
+
+ul2 li {
+ display: inline-block;
+
+}
+
+ul2 li a {
+
+
+}
